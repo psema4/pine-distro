@@ -4,9 +4,16 @@
 
 *pine-distro* is a tweaked version of the official Raspbian image from http://www.raspberrypi.org/downloads and comes in the form of an image file.
 
-Burn the image to an SD card (see http://elinux.org/RPi_Easy_SD_Card_Setup if you need help) and turn your Raspberry Pi Model B into an HTML5 Gaming Console!
+Download the latest image with a bittorrent client: http://pinegames.org/public/pine-autoboot_2013-07-08.img.bz.torrent
 
-You can download the latest image from: *Coming Soon*
+Once downloaded, extract the image:
+
+    tar -xjf pine-autoboot_2013-07-08.img.bz
+
+
+Burn the resulting .img file to a 4GB SD card (see http://elinux.org/RPi_Easy_SD_Card_Setup if you need help)
+
+Finally, insert the SD Card into your Raspberry Pi Model B and turn it into an HTML5 Gaming Console!
 
 ## See also
 
